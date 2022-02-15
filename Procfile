@@ -1,0 +1,1 @@
+web: npm i express --save && node server/server.js
