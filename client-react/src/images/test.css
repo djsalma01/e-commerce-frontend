@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+#navbarComponent{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    
+}
+#navbarProfile{
+    position: absolute;
+    width: 1496px;
+    height: 62px;
+    left: 0px;
+    top: 0px;
+    
+}
+#logo{
+    position: absolute;
+    width: 274px;
+    height: 60px;
+    left: 110px;
+    top: 0px;
+}
+#logo img{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    
+}
+#textLogo{
+    left: 32.2%;
+    position: absolute;
+    right: 0%;
+    top: 34.63%;
+    bottom: 28.7%;
+    
+    font-style: normal;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 800;
+    /* identical to box height */
+    line-height: 22px;
+
+    color: #3C1642;
+}
+#navbarPCS{
+    position: absolute;
+    left: 41.47%;
+    right: 0%;
+    top: 0.24%;
+    bottom: 11.29%;
+    display: inline-flex;
+    align-content: space-around;
+    align-items: center;
+}
+
+#account{
+    position: absolute;
+    left: 54.7%;
+    right: 26.77%;
+    top: 39.49%;
+    bottom: 25.71%;
+    order: 0;
+    flex: 0 1 auto;
+    align-self: auto;
+    width: 120px;
+    height: 40px;
+}
+#account img {
+    position: absolute;
+    left: 5.7%;
+    right: 33.96%;
+    top: 60.00%;
+    bottom: 28.61%;
+    
+}
+#myProfile{
+    position: absolute;
+    left: 28.48%;
+    right: 26.77%;
+    top: 10.49%;
+    bottom: 25.71%;
+    width: 120px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    
+    color: 0d070d;
+}
+#cart{
+    position: absolute;
+    left: 63.2%;
+    right: 22.52%;
+    top: 42%;
+    bottom: 27.89%;
+    
+}
+#cart img{
+    position: absolute;
+    left: 67.2%;
+    right: 21.52%;
+    top: 130.82%;
+    bottom: 27.89%;
+}
+#item{
+    position: absolute;
+    left: 93.18%;
+    right: 16.61%;
+    top: 8.77%;
+    bottom: 26.44%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    
+}
+#subTotalPrice{
+    position: absolute;
+    left: 140.53%;
+    right: 18.32%;
+    top: 10%;
+    bottom: 24.99%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #262626;
+    opacity: 0.5;
+}
+#search{
+
+}
+#search img{
+    position: absolute;
+    left: 90%;
+    right: 8.68%;
+    top: 85.71%;
+    bottom: 27.93%;
+}

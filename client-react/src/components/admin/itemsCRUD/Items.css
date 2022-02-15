@@ -1,0 +1,68 @@
+#orderTable th{
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #06e2ff;
+    color: white;
+    width: 1%;
+}
+th{
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+    width: 1%;
+}
+tr{
+    align-items: space-evenly;
+   border-bottom: 1px solid #C00;
+}
+#itemsInfoRow{
+    padding: 5px;
+    margin:3px;
+    background: whitesmoke;
+    color: rgb(2, 2, 2)
+}
+#imge{
+    border: 1px blue solid;
+
+    margin:5px;
+    padding:10px;
+    width: 140px;
+    height: 140px;
+}
+.Form{
+    max-width: 400px;
+    max-height: 400px;
+    align-items: center;
+    margin-left: 420px;
+    margin-bottom: 650px;
+}
+.Form #cat{
+    margin-right: 20px;
+}
+.Form button{
+  /*   margin-top: 10px;
+    margin-left:150px;
+    width: 165px;
+    height: 45px;
+    background-color: #04AA6D;
+    border-radius: 5px;  */
+    margin-left:5px;
+    margin-top: 2px;
+    background: #5de9cd;; 
+    height:45px;  
+    width:165px; 
+    border-radius:5px;  
+    box-shadow: 3px 3px #0F070D ;
+}
+#trash{
+    
+    width: 60px;
+    height: 70px;
+    margin-right: 2px;
+}
+#pencil{
+    
+    width: 70px;
+    height:80px;
+}

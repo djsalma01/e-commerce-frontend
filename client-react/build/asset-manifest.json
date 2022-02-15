@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.029cac71.css",
+    "main.js": "/static/js/main.caae7a34.js",
+    "static/media/under-amour-shoes-man4.jpg": "/static/media/under-amour-shoes-man4.0a4df3af0707b68a08fb.jpg",
+    "static/media/pencil.png": "/static/media/pencil.7d56a84f6b6e254ac073.png",
+    "static/media/trash.png": "/static/media/trash.4627ec2faeb526e0b4ce.png",
+    "static/media/fullEnergyLogo.png": "/static/media/fullEnergyLogo.454f3bd1fb50f0bf8c60.png",
+    "index.html": "/index.html",
+    "main.029cac71.css.map": "/static/css/main.029cac71.css.map",
+    "main.caae7a34.js.map": "/static/js/main.caae7a34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.029cac71.css",
+    "static/js/main.caae7a34.js"
+  ]
+}
